@@ -24,12 +24,12 @@ module.exports = {
   },
 
   onStart: async function ({ message }) {
-    const botName = "Loid Bot";
-    const botPrefix = "$";
-    const authorName = "Loid Butter";
-    const authorFB = "https://www.facebook.com/profile.php?id=100082741664058";
+    const botName = "Chiro";
+    const botPrefix = "/";
+    const authorName = "𝗔𝗽𝗽𝗹𝗲 𝗬𝗽𝗮𝗿𝗿𝗮𝗴𝘂𝗶𝗿𝗿𝗲";
+    const authorFB = "https://www.facebook.com/apple.vzvz";
     const authorInsta = "";
-    const status = "hi, crush ko po kayong lahat";
+    const status = "bolaga";
 
     const urls = JSON.parse(fs.readFileSync('loid.json'));
     const link = urls[Math.floor(Math.random() * urls.length)];
