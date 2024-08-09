@@ -15,6 +15,6 @@ onChat: async function({
     message,
     getLang
 }) {
-    if (event.body && event.body.toLowerCase() == "haha") return message.reply("SA LETRANG H HAHAHAHA HAPPY KA MAGLINIS KA NA BAKA LUMIPAD PA WALIS SA HARAPAN MO!");
+    if (event.body && event.body.toLowerCase() == "haha") return message.reply("chat mo owner ko  https://www.facebook.com/apple.vzvz mas sasaya ka lalo sakanya ");
 }
 };
