@@ -2,7 +2,7 @@ module.exports = {
     config: {
         name: "owner",
         version: "1.0",
-        author: "Loid Butter",
+        author: "𝗔𝗽𝗽𝗹𝗲 𝗬𝗽𝗮𝗿𝗿𝗮𝗴𝘂𝗶𝗿𝗿𝗲",
         countDown: 5,
         role: 0,
         shortDescription: "ask ai who is the bot owner",
