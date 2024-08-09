@@ -17,20 +17,20 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100052395031835",
-    ""
+    "100028592973022",
+    "100028592973022"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "OWNER": "Kyle Bait-it",
-  "AGE": "19",
-  "GENDER": "MALE",
-  "nickNameBot": "≫ # ≪ ➣ 𝑍𝐸𝑃𝐻𝑌𝑅𝑈𝑆 𝘼𝙄𝘃𝟮𓃵",
-  "FACEBOOK": "https://www.facebook.com/kyleyukaro",
-  "prefix": "#",
+  "OWNER": "𝗔𝗽𝗽𝗹𝗲 𝗬𝗽𝗮𝗿𝗿𝗮𝗴𝘂𝗶𝗿𝗿𝗲",
+  "AGE": "15",
+  "GENDER": "FENALE",
+  "nickNameBot": "≫ / ≪ ➣ Chiro",
+  "FACEBOOK": "https://www.facebook.com/apple.vzvz",
+  "prefix": "/",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
